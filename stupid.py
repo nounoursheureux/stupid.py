@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 Usage:
     stupid.py render <format> <file>
